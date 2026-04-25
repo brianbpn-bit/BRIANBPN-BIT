@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Brian 👋
 
-<!--
-**brianbpn-bit/BRIANBPN-BIT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Staff-level Program Manager focused on scaling developer platforms, enterprise adoption, and global technology programs.
 
-Here are some ideas to get you started:
+## 🚀 What I Do
+- Lead large-scale platform and data programs supporting 40,000+ users
+- Drive adoption of cloud, analytics, and AI/ML platforms
+- Build operating models that scale across global organizations
+- Align engineering, product, and operations teams to deliver outcomes
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌍 Focus Areas
+- Developer Ecosystems & Program Strategy
+- Platform Adoption & Engagement
+- Cloud Transformation (AWS)
+- Data & Analytics Platforms
+- Cross-Functional Program Leadership
+
+## 📂 Current Work
+I'm building frameworks and playbooks around:
+- Scaling developer programs globally
+- Driving platform adoption in large enterprises
+- Measuring engagement and ecosystem impact
+
+## 🧠 Currently Exploring
+- AI in developer workflows
+- Developer productivity at scale
+- Tools like GitHub Copilot and their impact on engineering teams
+
+## 🤝 Let’s Connect
+Always interested in discussing developer platforms, program strategy, and scaling technology organizations.
